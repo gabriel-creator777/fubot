@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# Ferramentas
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Configuração local do editor/Claude Code
+.claude/
