@@ -1,5 +1,7 @@
 # fubot
 
+[![Tests](https://github.com/gabriel-creator777/fubot/actions/workflows/tests.yml/badge.svg)](https://github.com/gabriel-creator777/fubot/actions/workflows/tests.yml)
+
 Um pequeno conjunto de utilitários em Python para mensagens de um bot simples.
 
 ## Funcionalidades
